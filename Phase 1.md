@@ -44,3 +44,6 @@ Then given below are the tools that we will be using throughout the project.
 - ClamAV throws unexpected errors
 - You detect malware when there's no malware
 - You generate files that evade detection or cause exceptions
+
+For a further Installation Guide on MacOS click this:
+[[Installation Guide]].
