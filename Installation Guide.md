@@ -59,7 +59,7 @@ freshclam
 #### Prerequisites
 1. Python should be installed
 ```
-brew install python3`
+brew install python3
 ```
 2. pip should be functional
 
