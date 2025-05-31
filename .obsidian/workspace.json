@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installation Guide.md",
+                "file": "Phase 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation Guide"
+              "title": "Phase 1"
             }
           },
           {
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Phase 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Phase 1"
             }
           },
           {
@@ -160,11 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Phase 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Phase 1"
             }
           },
           {
@@ -188,12 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Phase 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Phase 1"
             }
           }
         ]
@@ -213,11 +216,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64df2113e83eb7af",
+  "active": "a74394aa61cbd3b8",
   "lastOpenFiles": [
     "Installation Guide.md",
+    "Contents.md",
     "cheatsheet.md",
-    "Phase 1.md",
-    "Contents.md"
+    "Phase 1.md"
   ]
 }

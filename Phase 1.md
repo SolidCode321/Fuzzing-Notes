@@ -46,4 +46,4 @@ Then given below are the tools that we will be using throughout the project.
 - You generate files that evade detection or cause exceptions
 
 For a further Installation Guide on MacOS click this:
-[[Installation Guide]].
+[[Installation Guide]]
