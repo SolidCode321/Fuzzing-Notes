@@ -50,8 +50,7 @@
               "title": "cheatsheet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1d216caa41e107b3",
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phase 1.md",
+                "file": "Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Phase 1"
+              "title": "Backlinks for Contents"
             }
           },
           {
@@ -161,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phase 1.md",
+                "file": "Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Phase 1"
+              "title": "Outgoing links from Contents"
             }
           },
           {
@@ -190,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phase 1.md",
+                "file": "Contents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phase 1"
+              "title": "Outline of Contents"
             }
           }
         ]
@@ -216,11 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a74394aa61cbd3b8",
+  "active": "e6dd7c0d77cfd96d",
   "lastOpenFiles": [
-    "Installation Guide.md",
-    "Contents.md",
     "cheatsheet.md",
-    "Phase 1.md"
+    "Contents.md",
+    "Phase 1.md",
+    "Installation Guide.md"
   ]
 }
