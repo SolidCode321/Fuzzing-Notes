@@ -17,11 +17,11 @@ This is the notes made in the planning phase for fuzzing.
 
 >   Goal: Build and run a simple file-format fuzzer that integrates with ClamAV
 
- - [ ] Create a simple Python fuzzer to generate random strings or byte sequences
+ - [x] Create a simple Python fuzzer to generate random strings or byte sequences
  - [ ] Write fuzzed input to temporary files (e.g., .txt, .html, .pdf)
- - [ ] Use subprocess to scan each file using clamscan
- - [ ] Log input file, clamscan result (infected or not), and exit code
- - [ ] Track and store samples that ClamAV flags or crashes on (if any)
+ - [x] Use subprocess to scan each file using clamscan
+ - [x] Log input file, clamscan result (infected or not), and exit code
+ - [x] Track and store samples that ClamAV flags or crashes on (if any)
  - [ ] Build a results folder or CSV log for fuzzer output and AV response
  - [ ] Add crash or error detection (parse ClamAV stdout/stderr)
  - [ ] Set time/memory limits for ClamAV scans (prevent hangs)
