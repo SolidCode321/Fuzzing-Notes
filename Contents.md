@@ -12,7 +12,7 @@ This is the notes made in the planning phase for fuzzing.
 - [x] Fix freshclam.conf and update virus definitions
 - [x] Fix ClamAV database permission issues
 - [x] Verify clamscan works via terminal
-- [ ] Test clamscan with EICAR test file
+- [x] Test clamscan with EICAR test file
 ## 2.[[Phase 2]]
 
 >   Goal: Build and run a simple file-format fuzzer that integrates with ClamAV
