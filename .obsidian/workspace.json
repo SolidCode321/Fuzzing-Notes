@@ -6,7 +6,7 @@
       {
         "id": "4d4ca989503ec7f4",
         "type": "tabs",
-        "dimension": 72.3044397463002,
+        "dimension": 63.61809045226131,
         "children": [
           {
             "id": "e6dd7c0d77cfd96d",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installation Guide.md",
+                "file": "Clamscan Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation Guide"
+              "title": "Clamscan Guide"
             }
           },
           {
@@ -50,12 +50,13 @@
               "title": "cheatsheet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1d216caa41e107b3",
         "type": "tabs",
-        "dimension": 27.695560253699792,
+        "dimension": 36.381909547738694,
         "children": [
           {
             "id": "64df2113e83eb7af",
@@ -141,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Contents"
+              "title": "Backlinks"
             }
           },
           {
@@ -160,12 +160,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Contents"
+              "title": "Outgoing links"
             }
           },
           {
@@ -189,13 +188,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Contents"
+              "title": "Outline"
             }
           }
         ]
@@ -215,10 +213,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6dd7c0d77cfd96d",
+  "active": "64df2113e83eb7af",
   "lastOpenFiles": [
-    "Installation Guide.md",
+    "Clamscan Guide.md",
     "Phase 1.md",
+    "Installation Guide.md",
     "Contents.md",
     "README.md",
     "cheatsheet.md"

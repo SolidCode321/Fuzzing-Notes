@@ -47,3 +47,8 @@ Then given below are the tools that we will be using throughout the project.
 
 For a further Installation Guide on MacOS click this:
 [[Installation Guide]]
+
+
+For an intro to how to use clamscan click this;
+[[Clamscan Guide]]
+
