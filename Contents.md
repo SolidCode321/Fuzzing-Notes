@@ -22,8 +22,8 @@ This is the notes made in the planning phase for fuzzing.
  - [x] Use subprocess to scan each file using clamscan
  - [x] Log input file, clamscan result (infected or not), and exit code
  - [x] Track and store samples that ClamAV flags or crashes on (if any)
- - [ ] Build a results folder or CSV log for fuzzer output and AV response
- - [ ] Add crash or error detection (parse ClamAV stdout/stderr)
+ - [x] Build a results folder or CSV log for fuzzer output and AV response
+ - [x] Add crash or error detection (parse ClamAV stdout/stderr)
  - [ ] Set time/memory limits for ClamAV scans (prevent hangs)
  - [ ] (Optional) Visualize detection rate with matplotlib / pandas
  - [ ] Read or review the “Random Fuzzer” chapter from FuzzingBook

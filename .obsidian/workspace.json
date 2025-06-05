@@ -4,21 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "3be8e27121fb003c",
+        "id": "383e4027cf5d5f86",
         "type": "tabs",
+        "dimension": 70.41420118343196,
+        "children": [
+          {
+            "id": "cfeae57a773c1c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contents"
+            }
+          },
+          {
+            "id": "249c2d1ad2b7672a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 2"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2be1be5671432326",
+        "type": "tabs",
+        "dimension": 29.585798816568047,
         "children": [
           {
             "id": "0014dedcc7463732",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Installation Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Installation Guide"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -95,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Phase 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Phase 2"
             }
           },
           {
@@ -158,20 +192,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "0014dedcc7463732",
+  "active": "249c2d1ad2b7672a",
   "lastOpenFiles": [
     "Contents.md",
     "Clamscan Guide.md",
-    "Phase 1.md",
     "Installation Guide.md",
+    "Phase 1.md",
     "README.md",
     "cheatsheet.md"
   ]
